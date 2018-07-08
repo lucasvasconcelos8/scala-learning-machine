@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ivy-report.xsl"?>
+<ivy-report version="1.0">
+	<info
+		organisation="scala-learning-machine"
+		module="scala-learning-machine$sources"
+		revision="1.0-SNAPSHOT"
+		conf="optional"
+		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool"
+		date="20180707220957"/>
+	<dependencies>
+	</dependencies>
+</ivy-report>

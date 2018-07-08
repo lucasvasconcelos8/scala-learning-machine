@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/lucasvasconcelos/Documents/ScalaLearningMachine/gitRepo/scala-learning-machine/webservices/app/controllers/HomeController.scala:22:19: object index is not a member of package views.html[0m
+[0m[[0m[31merror[0m] [0m[0m    Ok(views.html.index("Your new application is ready."))[0m
+[0m[[0m[31merror[0m] [0m[0m                  ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
